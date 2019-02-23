@@ -1,0 +1,32 @@
+.left-icon{
+	position: absolute;
+	left: 10px;
+	top: 10px;
+}
+.right-icon{
+	position: absolute;
+	bottom: 10px;
+	right: 10px;
+}
+.season-display{
+	justify-content: center;
+	height: 100vh;
+	display: flex;
+	align-content: center; 
+}
+.season-display.winter {
+	background: cadetblue;
+	
+}
+.season-display.winter i{
+	color: darkblue;
+}
+.season-display.summer {
+	background: orange;
+}
+.season-display.summer i{
+	color: brown;
+	
+}
+
+https://www.youtube.com/watch?v=W0D3iCXpHVU
